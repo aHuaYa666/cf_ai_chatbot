@@ -3,7 +3,8 @@
 A high-performance, full-stack AI chatbot deployed globally on Cloudflare's edge network. Built with a focus on low latency and serverless architecture.
 
 ## 🔗 Project Links
-- **Live Demo**: [Paste your Cloudflare Workers URL here]
+- **Live Demo**: [https://cf-ai-chatbot.jinlindqueenie.workers.dev](https://cf-ai-chatbot.jinlindqueenie.workers.dev)
+- **GitHub Repository**: [https://github.com/aHuaYa666/cf_ai_chatbot](https://github.com/aHuaYa666/cf_ai_chatbot)
 - **Tech Stack**: Cloudflare Workers, TypeScript, Meta Llama 3 (8B-Instruct).
 
 ## 🚀 Key Technical Highlights
