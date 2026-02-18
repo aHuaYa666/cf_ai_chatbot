@@ -41,5 +41,5 @@ The assistant maintains conversation continuity by coordinating chat history bet
 
 1. **Clone & Install**:
    ```bash
-   git clone [Your-Repo-URL]
+   git clone https://github.com/aHuaYa666/cf_ai_chatbot.git
    npm install
